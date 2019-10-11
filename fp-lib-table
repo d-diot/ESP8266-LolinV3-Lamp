@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri /home/franz-unix/nas/kicad/libraries/github/kicad-ESP8266/ESP8266.pretty)(options "")(descr ""))
+  (lib (name FDN337N)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/FDN337N/FDN337N.mod)(options "")(descr ""))
+  (lib (name FDN338P)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/FDN338P/FDN338P.mod)(options "")(descr ""))
+  (lib (name DIP-MOSFET-P-CH-60V-27A_TO-220_)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/DIP-MOSFET-P-CH-60V-27A_TO-220_/DIP-MOSFET-P-CH-60V-27A_TO-220_.mod)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri /home/franz-unix/nas/kicad/libraries/misc/logo.pretty)(options "")(descr ""))
+)
