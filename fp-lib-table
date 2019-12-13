@@ -4,4 +4,5 @@
   (lib (name FDN338P)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/FDN338P/FDN338P.mod)(options "")(descr ""))
   (lib (name DIP-MOSFET-P-CH-60V-27A_TO-220_)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/DIP-MOSFET-P-CH-60V-27A_TO-220_/DIP-MOSFET-P-CH-60V-27A_TO-220_.mod)(options "")(descr ""))
   (lib (name logo)(type KiCad)(uri /home/franz-unix/nas/kicad/libraries/misc/logo.pretty)(options "")(descr ""))
+  (lib (name SN74AHCT125DR)(type Legacy)(uri /home/franz-unix/nas/kicad/libraries/snapeda/SN74AHCT125DR/SN74AHCT125DR.mod)(options "")(descr ""))
 )
